@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.voltarouir {
+    text-decoration: none;
+    color: rgb(45, 45, 45);
+
+}
+.voltarouir::before {
+    content: '⇐ ';
+}
+.voltarouir:hover {
+    color: Black;
+    content: underline;
+}
+
+#seta::after {
+    content: '⇒';
+}
+
+#seta::before {
+    content: none;
+}
