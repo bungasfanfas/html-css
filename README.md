@@ -2,4 +2,6 @@
  html5 do curso em video
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
-<a href="https://bungasfanfas.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001</a>
+<a href="https://bungasfanfas.github.io/html-css/exercicios/ex001/index.html" target='_blank'>Executar o exercício 001</a>
+
+<a href="https://bungasfanfas.github.io/projeto-android" target='_blank'>Projeto-android</a>
